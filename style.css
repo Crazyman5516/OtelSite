@@ -132,7 +132,7 @@ img {
 
 .main-header .content p {
   font-size: 2.3rem;
-  line-height: 1.6; /* önerilir */
+  line-height: 1.6;
   max-width: 60rem;
   margin: 2rem 0 3rem;
 }
